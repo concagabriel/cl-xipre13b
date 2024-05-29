@@ -1,5 +1,5 @@
 {
-    'name': 'xipre13',
+    'name': 'xipre13b',
     'version': '13.0.0.0',
     'category': 'Tools',
     'summary': "Odoo 13 test",
@@ -30,7 +30,7 @@
 
     # list of url repos to install in the form 'repo-url directory'
     'git-repos': [
-        'https://github.com/sistemassdeh/cl-xipre13.git',
+        'https://github.com/concagabriel/cl-xipre13b.git',
         'https://github.com/regaby/odoo-custom.git',
         'https://github.com/regaby/sdeh-pos.git',
         'https://github.com/jobiols/odoo-addons.git',
