@@ -92,6 +92,7 @@
         'https://github.com/ingadhoc/account-payment -b 13.0',
         'https://github.com/OCA/server-auth -b 13.0',
         'https://github.com/ingadhoc/stock -b 13.0',
+        'https://github.com/ingadhoc/hr -b 13.0',
     ],
 
     'docker-images': [
