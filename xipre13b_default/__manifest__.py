@@ -86,6 +86,7 @@
         'https://github.com/odoo/odoo -b 13.0',
         'https://github.com/OCA/social -b 13.0',
         'https://github.com/ingadhoc/miscellaneous -b 13.0',
+        'https://github.com/OCA/knowledge -b 13.0',
     ],
 
     'docker-images': [
