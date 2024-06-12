@@ -84,6 +84,7 @@
         ##ee
         'https://github.com/odoo/enterprise -b 13.0',
         'https://github.com/odoo/odoo -b 13.0',
+        'https://github.com/OCA/social -b 13.0',
     ],
 
     'docker-images': [
