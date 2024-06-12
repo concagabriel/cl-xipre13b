@@ -37,7 +37,7 @@
         ## Modulo QR para pos
         'https://github.com/regaby/l10n_ar_fe_qr.git ctmil/l10n_ar_fe_qr',
         ## localización
-        'https://github.com/ingadhoc/odoo-argentina.git -b 13.0',
+        'https://github.com/ingadhoc/odoo-argentina -b 13.0',
         'https://github.com/ingadhoc/odoo-argentina-ce.git',
         'https://github.com/ingadhoc/argentina-sale.git',
         'https://github.com/ingadhoc/account-payment.git',
