@@ -89,6 +89,7 @@
         'https://github.com/OCA/knowledge -b 13.0',
         'https://github.com/ingadhoc/project -b 13.0',
         'https://github.com/OCA/partner-contact -b 13.0',
+        'https://github.com/ingadhoc/account-payment -b 13.0',
     ],
 
     'docker-images': [
