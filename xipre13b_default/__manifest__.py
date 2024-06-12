@@ -68,8 +68,8 @@
         ##
         'https://github.com/OCA/stock-logistics-barcode.git -b 13.0',
         'https://github.com/OCA/stock-logistics-warehouse.git -b 13.0',
-        ##'https://github.com/ingadhoc/purchase -b 13.0',
-        ##'https://github.com/ingadhoc/product -b 13.0',
+        'https://github.com/ingadhoc/purchase -b 13.0',
+        'https://github.com/ingadhoc/product -b 13.0',
         'https://github.com/OCA/wms.git -b 13.0',
         'https://github.com/filoquin/odoo_retail -b 13.0',
         'https://github.com/OCA/queue -b 13.0',
@@ -87,6 +87,8 @@
         'https://github.com/OCA/social -b 13.0',
         'https://github.com/ingadhoc/miscellaneous -b 13.0',
         'https://github.com/OCA/knowledge -b 13.0',
+        'https://github.com/ingadhoc/project -b 13.0',
+        'https://github.com/OCA/partner-contact -b 13.0',
     ],
 
     'docker-images': [
